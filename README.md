@@ -67,7 +67,9 @@ pip install -r requirements.txt
 twobladeBotTemplate/
 ├── template.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── LICENSE
 ```
 
 ---
+This project is licensed under the [Apache License 2.0](LICENSE).
