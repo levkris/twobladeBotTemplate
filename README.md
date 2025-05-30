@@ -72,4 +72,25 @@ twobladeBotTemplate/
 ```
 
 ---
+
+## ⚙️ Configuration
+
+Inside `template.py`, you’ll find a few variables you **must update** to suit your bot:
+
+```python
+REPLIED_FILE = "yourFile.json"         # Replace with your actual file name
+
+botName = "Your Bot Name"              # Replace with your actual bot name
+botUsername = "YourBotUsername"        # Replace with your actual bot username
+botPassword = "YourBotPassword"        # Replace with your actual bot password
+
+maxMessages = 10                       # Maximum number of messages to process
+```
+
+Make sure to configure these before running the bot!
+
+---
+
+## 📄 License
+
 This project is licensed under the [Apache License 2.0](LICENSE).
