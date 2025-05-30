@@ -1,6 +1,6 @@
 # 🧠 twobladeBotTemplate
 
-This is a template to make a bot for [twoblade](https://twoblade.com) using Selenium.
+This is a template to make a bot for the [twoblade chat](https://twoblade.com) using Selenium.
 
 ## 🐍 Requirements
 
